@@ -21,5 +21,6 @@ or a MIDI controller with embedded MIDI-USB interface, like the [TinyBox](https:
 ## Acknowledgments
 
 * This application is built on top of the [Electron](https://www.electronjs.org/) framework
-* It uses the splendid [RtMidi](https://www.music.mcgill.ca/~gary/rtmidi/) platform independent MIDI library - Copyright (C) 2011-2015 by Justin Latimer.
-* and the equally useful [node-easymidi](https://github.com/dinchak/node-easymidi) wrapper for it - Copyright (c) 2019 Tom Dinchak 
+* It uses the splendid [RtMidi](https://www.music.mcgill.ca/~gary/rtmidi/) platform independent MIDI library - Copyright (C) 2011-2015 by Justin Latimer
+* along with wrappers [node-midi](https://github.com/justinlatimer/node-midi) - Copyright (C) 2011 by Justin Latimer
+* and [node-easymidi](https://github.com/dinchak/node-easymidi) - Copyright (c) 2019 Tom Dinchak 
