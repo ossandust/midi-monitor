@@ -10,7 +10,6 @@ In order to use this application, you will need a [MIDI-USB interface](https://g
 or a MIDI controller with embedded MIDI-USB interface, like the [TinyBox](https://www.tinybox.rocks)
 
 ### Installing
-This github repository only manages the software update releases. The application installer can be downloaded here : 
 
 * Mac installer : 
 * Windows installer : 
