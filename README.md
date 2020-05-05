@@ -14,7 +14,24 @@ or a MIDI controller with embedded MIDI-USB interface, like the [TinyBox](https:
 * Mac installer : [MIDI-monitor-1.0.0.dmg](https://github.com/ossandust/midi-monitor/releases/download/v1.0.0/MIDI-monitor-1.0.0.dmg)
 * Windows installer : [MIDI-monitor-Setup-1.0.0.exe](https://github.com/ossandust/midi-monitor/releases/download/v1.0.0/MIDI-monitor-Setup-1.0.0.exe)
 
-## Authors
+## Screenshot
+
+![screenshot](http://fcb1010.eu/img/monitor_screenshot.png)
+
+    1 : Selected MIDI IN port                  2 : Selected MIDI OUT port
+
+    3 : List of incoming MIDI messages         4 : List of outgoing MIDI messages
+
+    5 : Clear button for the MIDI IN listview  7 : Clear button for the MIDI OUT listview
+
+    6 : MIDI THRU function = forward all incoming MIDI messages to the MIDI OUT port
+  
+    8 : MIDI message selection : specify any MIDI message to be sent to the MIDI OUT port
+  
+    9 : Send button to transmit the selected MIDI message to the MIDI OUT port
+
+
+## Author
 
 * **Xavier De Donder** - aka *Ossan Dust* - [FCB1010.eu](https://www.fcb1010.eu)
 
