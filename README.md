@@ -22,13 +22,17 @@ or a MIDI controller with embedded MIDI-USB interface, like the [TinyBox](https:
 
     3 : List of incoming MIDI messages         4 : List of outgoing MIDI messages
 
-    5 : Clear button for the MIDI IN listview  7 : Clear button for the MIDI OUT listview
+    5 : Clear button for the MIDI IN listview  6 : Clear button for the MIDI OUT listview
 
-    6 : MIDI THRU function = forward all incoming MIDI messages to the MIDI OUT port
+    7 : Incoming Clock/ActiveSense indication  8 : Outgoing Clock/ActiveSense indication
+
+    9 : MIDI THRU function = forward all incoming MIDI messages to the MIDI OUT port
   
-    8 : MIDI message selection : specify any MIDI message to be sent to the MIDI OUT port
+    10: Send button to transmit a MIDI message to the MIDI OUT port
+    
+    11: MIDI message selection : specify any MIDI message to be sent to the MIDI OUT port
   
-    9 : Send button to transmit the selected MIDI message to the MIDI OUT port
+    
 
 
 ## Author
