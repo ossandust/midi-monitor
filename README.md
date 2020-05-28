@@ -11,8 +11,8 @@ or a MIDI controller with embedded MIDI-USB interface, like the [TinyBox](https:
 
 ### Installing
 
-* Mac installer : [MIDI-monitor-1.0.4.dmg](https://github.com/ossandust/midi-monitor/releases/download/v1.0.4/MIDI-monitor-1.0.4.dmg)
-* Windows installer : [MIDI-monitor-Setup-1.0.4.exe](https://github.com/ossandust/midi-monitor/releases/download/v1.0.4/MIDI-monitor-Setup-1.0.4.exe)
+* Mac installer : [MIDI-monitor-1.0.5.dmg](https://github.com/ossandust/midi-monitor/releases/download/v1.0.5/MIDI-monitor-1.0.5.dmg)
+* Windows installer : [MIDI-monitor-Setup-1.0.5.exe](https://github.com/ossandust/midi-monitor/releases/download/v1.0.5/MIDI-monitor-Setup-1.0.5.exe)
 
 ## Screenshot
 
