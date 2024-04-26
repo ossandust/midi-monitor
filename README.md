@@ -11,8 +11,8 @@ or a MIDI controller with embedded MIDI-USB interface, like the [TinyBox](https:
 
 ### Installing
 
-* Mac installer : [MIDI-monitor-1.0.6.dmg](https://github.com/ossandust/midi-monitor/releases/download/v1.0.6/MIDI-monitor-1.0.6.dmg)
-* Windows installer : [MIDI-monitor-Setup-1.0.6.exe](https://github.com/ossandust/midi-monitor/releases/download/v1.0.6/MIDI-monitor-Setup-1.0.6.exe)
+* Mac installer : [MIDI-monitor-1.0.7.dmg](https://github.com/ossandust/midi-monitor/releases/download/v1.0.7/MIDI-monitor-1.0.7.dmg)
+* Windows installer : [MIDI-monitor-Setup-1.0.7.exe](https://github.com/ossandust/midi-monitor/releases/download/v1.0.7/MIDI-monitor-Setup-1.0.7.exe)
 
 ### FCB1010 communication check
 
