@@ -14,6 +14,12 @@ or a MIDI controller with embedded MIDI-USB interface, like the [TinyBox](https:
 * Mac installer : [MIDI-monitor-1.0.6.dmg](https://github.com/ossandust/midi-monitor/releases/download/v1.0.6/MIDI-monitor-1.0.6.dmg)
 * Windows installer : [MIDI-monitor-Setup-1.0.6.exe](https://github.com/ossandust/midi-monitor/releases/download/v1.0.6/MIDI-monitor-Setup-1.0.6.exe)
 
+### FCB1010 communication check
+
+Next to the MIDI monitor functionality explained in the screenshot below, this application can also be used to check MIDI communication between your PC and an FCB1010 (equipped with Behringer or UnO firmware)
+Especially when you consider purchasing UnO2 firmware, this check is mandatory in order to avoid ending up with a MIDI controller which can't be programmed.<BR>
+The communication check can be found in the "Help" menu.
+
 ## Screenshot
 
 ![screenshot](http://fcb1010.eu/img/monitor_screenshot.png)
